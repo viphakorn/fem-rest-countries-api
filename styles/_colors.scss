@@ -1,0 +1,12 @@
+:root {
+ --clr-main: hsl(0, 0%, 100%);
+ --clr-bg: hsl(0, 0%, 98%);
+ --clr-text: hsl(200, 15%, 8%);
+ --clr-input: hsl(0, 0%, 52%);
+}
+[data-theme="dark"] {
+ --clr-main: hsl(209, 23%, 22%);
+ --clr-bg: hsl(207, 26%, 17%);
+ --clr-text: hsl(0, 0%, 100%);
+ --clr-input: var(--clr-text);
+}

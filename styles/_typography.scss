@@ -1,0 +1,14 @@
+:root {
+  --fs-300: 0.875rem;
+  --fs-400: 1rem;
+
+  --fw-300: 300;
+  --fw-600: 600;
+  --fw-800: 800;
+
+  --ff-nunito-sans: "Nunito Sans";
+}
+
+body {
+  font-family: var(--ff-nunito-sans), sans-serif;
+}
