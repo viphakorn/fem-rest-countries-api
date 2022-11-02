@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-react-nextjs-sass-kdTnC0uiMq)
-- Live Site URL: [Vercel](https://fem-rest-countries-api-jamey.vercel.app/)
+- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-rest-countries-api/)
 
 ## My process
 
