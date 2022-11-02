@@ -89,7 +89,7 @@ const CountryPage: NextPage<CountryProps> = ({ country, borders }) => {
       <div className="border-countries">
        <b>Border Countries: </b>
        {borders.map((border) => (
-        <Link href={`country/${border.name.replace(/ /g, "-")}`} key={border.name}>
+        <Link href={`/country/${border.name.replace(/ /g, "-")}`} key={border.name}>
          <a>{border.name}</a>
         </Link>
        ))}
