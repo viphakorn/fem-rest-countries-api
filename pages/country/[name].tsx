@@ -129,6 +129,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
  const country = countries.find(({ name }) => name.common.replace(/ /g, "-") === params?.name)
  const borders = await getBorderCountries(country?.borders)
  return {
-  props: { country, borders },
+  props: { country, borders }
  }
 }
